@@ -1,4 +1,4 @@
-## Hello there, I'm [Olajide](https://www.linkedin.com/in/hezekiah-olajide-49a008225/).
+## Hello there, I'm [Hezekiah Olajide Oladejo](https://www.linkedin.com/in/hezekiah-olajide-49a008225/).
 
 I'm a passionate software engineer with a strong focus on backend engineering. I love designing and implementing scalable, efficient systems that solve real-world problems. My expertise includes working with a variety of backend technologies, frameworks, and databases.  
 
@@ -10,7 +10,6 @@ I'm a passionate software engineer with a strong focus on backend engineering. I
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
